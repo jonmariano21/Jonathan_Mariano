@@ -1,4 +1,8 @@
-lab8
-====
+Jonathan Mariano
+================
 
-Lab 8: Analytic & A/B testing using Woopra
+Portfolio: 
+- Keep San Diego Safe
+- Emotion Notion
+- Resume
+- About Me

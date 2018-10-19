@@ -3,17 +3,20 @@
 	margin-top: 2em;
 }
 
+
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */	
 	color: #CC00AA;
 }
 
+
 .jumbotron {
 	position: relative;
 	background: none;
      color: #FFFFFF;
 }
+
 
 .jumbotron:after {
      content:"";
@@ -27,9 +30,11 @@
      z-index: -1;	
 }
 
+
 .jumbotron p {
      color: #FFFFFF;
 }
+
 
 .project a {
      text-align: center;
